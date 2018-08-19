@@ -251,7 +251,7 @@ if(!empty($_POST['user']) && !empty($_POST['pass'])) {
     <div class="container">
         <div class="row-fluid">
             <div class="span5 cp">
-                &copy; 2013 <a target="_blank" href="http://shapebootstrap.net/" title="Free Twitter Bootstrap WordPress Themes and HTML templates">ShapeBootstrap</a>. All Rights Reserved.
+                &copy; 2017 <a target="_blank" href="http://shapebootstrap.net/" title="Free Twitter Bootstrap WordPress Themes and HTML templates">fav-webmaster</a>. All Rights Reserved. Developed By Bhushan A Jangle.
             </div>
             <!--/Copyright-->
 
